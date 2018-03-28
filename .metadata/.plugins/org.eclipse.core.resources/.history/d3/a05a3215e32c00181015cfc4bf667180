@@ -1,0 +1,5 @@
+package com.springmvc.hibernate.dao;
+
+public class EmployeeDAO {
+
+}

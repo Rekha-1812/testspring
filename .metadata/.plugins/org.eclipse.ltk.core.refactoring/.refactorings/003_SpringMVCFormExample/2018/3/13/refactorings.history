@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;003_SpringMVCFormExample/WebContent/WEB-INF/myview&apos; to &apos;view&apos;" description="Rename resource &apos;myview&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/myview" name="view" stamp="1522226690791" updateReferences="true"/>
+</session>

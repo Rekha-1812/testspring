@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 004_SpringBoot_HelloWorld
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 665952
+Implementation-Vendor-Id: com.springboot.one
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/004_SpringBo
+ ot_HelloWorld/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

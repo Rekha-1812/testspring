@@ -1,0 +1,5 @@
+package com.springboot.thymeleaf.main;
+
+public class Person {
+
+}

@@ -1,0 +1,5 @@
+package com.springboot.thymeleaf.form;
+
+public class PersonForm {
+
+}

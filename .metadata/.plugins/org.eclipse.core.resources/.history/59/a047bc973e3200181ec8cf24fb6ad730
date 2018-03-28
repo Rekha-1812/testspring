@@ -1,0 +1,5 @@
+package com.springboot.watertank.repository;
+
+public class WaterRepository {
+
+}

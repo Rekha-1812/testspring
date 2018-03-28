@@ -1,0 +1,5 @@
+package com.springboot.watertank.main;
+
+public class SpringMainAppEntry {
+
+}

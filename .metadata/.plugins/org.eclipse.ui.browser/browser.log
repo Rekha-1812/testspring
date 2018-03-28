@@ -1,0 +1,48 @@
+
+Mar 21, 2018 15:18:27.74 NEW SESSION
+Mar 21, 2018 15:18:27.74 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 15:18:27.74 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 15:18:27.75 [0321/151827.738:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 15:18:28.37 [2092:10716:0321/151828.375:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 15:19:35.74 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 15:19:35.74 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 15:19:35.74 [0321/151935.746:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 15:19:36.30 [7388:6764:0321/151936.302:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 15:22:56.82 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 15:22:56.82 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 15:22:56.86 [0321/152256.861:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 15:22:57.52 [5668:12120:0321/152257.524:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 16:46:01.04 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 16:46:01.11 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 16:46:01.16 [0321/164601.051:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 16:46:01.69 [10356:2908:0321/164601.691:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 16:47:40.02 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 16:47:40.02 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 16:47:40.02 [0321/164740.026:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 16:47:41.04 [7376:12024:0321/164741.042:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 16:52:22.07 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 16:52:22.08 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 16:52:22.08 [0321/165222.077:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 16:52:22.94 [3856:5360:0321/165222.942:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 16:52:23.11 [3856:5360:0321/165223.116:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 17:02:03.62 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 17:02:03.63 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 17:02:03.63 [0321/170203.626:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 17:02:04.55 [11968:8552:0321/170204.558:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 17:05:17.04 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 17:05:17.05 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 17:05:17.05 [0321/170516.645:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 17:05:17.37 [8172:6576:0321/170517.373:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 17:07:51.48 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 17:07:51.48 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 17:07:51.48 [0321/170751.484:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 17:07:52.05 [6856:1500:0321/170752.050:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 17:07:52.18 [6856:1500:0321/170752.183:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 17:11:06.32 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 17:11:06.34 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 17:11:06.34 [0321/171106.332:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 17:11:06.52 [11700:11324:0321/171106.524:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords
+Mar 21, 2018 17:13:28.70 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Mar 21, 2018 17:13:28.70 Try 'chrome.exe --help' for more information.
+Mar 21, 2018 17:13:28.70 [0321/171328.707:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Mar 21, 2018 17:13:29.34 [7720:11680:0321/171329.341:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: PasswordManagerAllowShowPasswords

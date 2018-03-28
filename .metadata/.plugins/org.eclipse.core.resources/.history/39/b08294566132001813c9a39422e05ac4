@@ -1,0 +1,7 @@
+package com.springboot.watertank.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface WaterRepository extends CrudRepository <UseWater,Integer> {
+
+}

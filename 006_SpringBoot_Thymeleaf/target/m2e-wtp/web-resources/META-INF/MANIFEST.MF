@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot_Thymeleaf
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 665952
+Implementation-Vendor-Id: 006_SpringBoot_Thymeleaf
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/006_SpringBoot_Thymeleaf
+Created-By: Maven Integration for Eclipse
+

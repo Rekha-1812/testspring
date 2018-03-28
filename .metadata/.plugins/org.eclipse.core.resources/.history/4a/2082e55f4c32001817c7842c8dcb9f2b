@@ -1,0 +1,6 @@
+package com.springboot.watertank.controller;
+
+
+public interface WaterRepository extends CrudRepository <UseWater,Integer> {
+
+}

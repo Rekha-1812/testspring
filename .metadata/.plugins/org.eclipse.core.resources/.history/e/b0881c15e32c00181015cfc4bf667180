@@ -1,0 +1,5 @@
+package com.springmvc.hibernate.entity;
+
+public class EmployeeEntity {
+
+}

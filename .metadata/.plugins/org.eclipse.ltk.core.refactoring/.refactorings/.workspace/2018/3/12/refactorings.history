@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;003_SpringMVC-Hibernate&apos;" deleteContents="true" description="Delete resource &apos;003_SpringMVC-Hibernate&apos;" element1="/003_SpringMVC-Hibernate" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1521462509672"/>&#x0A;<refactoring comment="Rename resource &apos;003_SpringMvc_Hibernate&apos; to &apos;003_SpringMvc_Hibernate1&apos;" description="Rename resource &apos;003_SpringMvc_Hibernate&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/003_SpringMvc_Hibernate" name="003_SpringMvc_Hibernate1" stamp="1521624251807" updateReferences="true"/>
+</session>

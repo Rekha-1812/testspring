@@ -1,0 +1,5 @@
+package com.springboot.thymeleaf.controller;
+
+public class ThymeleafController {
+
+}
